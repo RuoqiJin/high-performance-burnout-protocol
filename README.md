@@ -95,6 +95,6 @@ The content here is based on personal experience (N=1 experiment) and is not med
 
 ---
 
-**Created by [rickyjim626](https://github.com/rickyjim626)**
+**Created by [ruoqijin](https://github.com/ruoqijin)**
 
 *Built with coffee, code, and curiosity.*
