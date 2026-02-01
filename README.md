@@ -21,10 +21,12 @@ This repository isn't motivational fluff—it's an **engineering debugging log**
 /high-performance-burnout-protocol
 ├── README.md                      # You are here
 ├── /docs
+│   ├── theory-basis.md            # Why our brains work this way
+│   ├── warning-signals.md         # Dashboard warning lights
 │   ├── emergency-manual.md        # Crisis intervention guide
+│   ├── flow-protocol.md           # How to ride the wave safely
 │   ├── nutrition-pack.md          # Fuel strategies (Tokyo Edition)
-│   ├── debugging-log.md           # Self-tracking template
-│   └── theory-basis.md            # The science behind the madness
+│   └── debugging-log.md           # Self-tracking template
 └── /resources
     └── README.md                  # NSDR, books, tools
 ```
@@ -35,80 +37,108 @@ This guide is for **High-Intensity Neurotypes** with the following characteristi
 
 * **Professions:** Programmers, founders, artists, video editors, traders—anyone with high cognitive load.
 * **Traits:**
-  * Low Latent Inhibition: Difficulty filtering environmental stimuli, heightened sensory awareness.
-  * High Sensitivity: A physiological obsession with logic and aesthetics.
-  * Burst Workers: Ill-suited for 9-to-5; naturally inclined toward short, explosive, high-output sessions.
+  * **Low Latent Inhibition:** Your brain doesn't filter out stimuli like others do. You see connections everywhere—but can't turn it off.
+  * **Hyperfocus-Prone:** You don't choose to enter flow; you get pulled in. It's not "good focus"—it's attention hijacking.
+  * **Pulse Workers:** Ill-suited for 9-to-5. You work in intense 4-hour bursts, then crash. This is your normal.
 
 ## 🚩 Warning Flags
 
-Before a "system crash," the body typically sends faint warning signals. Learning to recognize these is key to preventing self-attack spirals.
+Before a "system crash," the body sends faint signals. **The "tired" signal is delayed**—when you feel it, you've already overdrafted. Learn to catch earlier warnings:
 
 | Signal Type | Symptoms | Severity | Response |
 | --- | --- | --- | --- |
-| **Physiological** | **Sighing** (unconscious deep breaths), **cold hands/feet** (blood pooling in the brain), tunnel vision | 🟡 Warning | Stop input immediately, consume glucose |
-| **Cognitive** | Unable to read simple lines/sentences, short-term memory loss (forgetting what you were about to search) | 🟠 Critical | Force yourself away from the screen, initiate "physical interruption" |
-| **Emotional** | Rage at minor delays, sudden waves of loneliness or meaninglessness | 🔴 Error | **No thinking allowed**—execute emergency shutdown |
+| **Cognitive** | Re-reading lines, memory gaps, unusual typos | 🟡 Warning | Note time. ~30 min left. Start winding down. |
+| **Physiological** | Sighing, cold hands/feet, tunnel vision | 🟠 Critical | **Stop now.** Glucose. 5-min break minimum. |
+| **Emotional** | Rage at minor delays, sudden emptiness | 🔴 Error | **Emergency shutdown.** No decisions. See [Emergency Manual](docs/emergency-manual.md). |
 
-## 🛠️ Patches & Hotfixes
+**The most dangerous signal:** *"I'm fine, just 10 more minutes."* When this thought appears, you're already past warning.
 
-### 1. Emergency Hotfix
+## 🛠️ Quick Reference
 
-*When your brain stalls and emotions start plummeting:*
+### Emergency Hotfix (Brain Stalling)
 
-* **🍬 Glucose Shock (The Ramune Hack):**
-  * **Why:** The brain urgently needs monosaccharides; sucrose is too slow.
-  * **Tool:** Morinaga Large Ramune (90% glucose) or any high-glucose candy.
-  * **How:** Let 2-3 tablets dissolve under your tongue for direct mucosal absorption. Reboots the prefrontal cortex within 10 minutes.
+```
+Ramune (2-3 tablets, sublingual) → 10 min reboot
+Diving Reflex (cold water on face) → Instant vagus nerve activation
+Physiological Sigh (2 inhales + 1 long exhale) → Fastest cortisol reduction
+```
 
-* **🥤 Liquid Carbs:** Weider in Jelly (energy version) or 100% fruit juice.
+### The 90-Minute Rule
 
-* **🧊 Diving Reflex:** Splash cold water on your face or apply an ice towel to your eyes. This forcibly activates the parasympathetic nervous system—a physical cooldown.
+```
+90 min ON → 20 min OFF → Repeat
+Timer is NON-NEGOTIABLE.
+Even mid-brilliant-code, STOP.
+```
 
-### 2. Long-Term Support (LTS Strategy)
+### The Mantra
 
-*How to sustain flow without crashing:*
+When self-attack thoughts appear:
 
-* **90-Minute Cycles (Ultradian Rhythms):** Set a hard alarm. No matter how good your state is, you must shut down for cooling every 90 minutes.
-* **Fuel Mix:**
-  * **Omega-3 & MCT:** Quality fats are the brain's lubricant (deep-sea fish, nuts).
-  * **Water:** Keep it within reach; drink whenever you see it. 2% dehydration = 20% drop in focus.
+> **"This is physiological noise—a dopamine crash—not reality. I felt invincible 3 hours ago. The only thing that changed is blood sugar."**
 
-* **NSDR (Non-Sleep Deep Rest):** 10-20 minutes of Yoga Nidra every afternoon for nervous system "defragmentation."
+### What NOT To Do When Crashing
 
-### 3. Cognitive Firewall
-
-*Psychological defenses against "self-attack":*
-
-* **Recognize the Noise:** When "I'm terrible" thoughts appear, tell yourself: **"This is physiological noise—a dopamine withdrawal response—not reality."**
-* **No Post-Mortems:** When fatigued, absolutely no work retrospectives or life planning.
-* **Brain Dump:** Before sleep, dump all the garbage in your head onto paper. Clear the RAM.
+- ❌ Review your work (becomes self-criticism rally)
+- ❌ Make decisions (risk assessment is broken)
+- ❌ "Just 10 more minutes" (the lie that extends crashes)
+- ❌ Use phone during "break" (not rest, just different drain)
 
 ## 📂 Recommended Supply List
 
-*(Based on Japan/Asia convenience store availability)*
+*(Tokyo Edition - adapt for your location)*
 
-- [ ] **Morinaga Large Ramune (90% glucose)** — *Emergency*
-- [ ] **Weider in Jelly (Blue Energy version)** — *Fast Carb*
-- [ ] **70%+ Dark Chocolate** — *Flow maintenance*
-- [ ] **Unsalted Mixed Nuts** — *Healthy Fats*
-- [ ] **Noise-canceling headphones + NSDR audio**
+- [ ] **Morinaga Large Ramune (90% glucose)** — Emergency brain reboot
+- [ ] **Weider in Jelly (Blue Energy)** — Fast liquid carbs
+- [ ] **Salmon onigiri + Mixed nuts** — Omega-3 sustained fuel
+- [ ] **70%+ Dark Chocolate** — Flow maintenance
+- [ ] **Water bottle in line of sight** — You won't drink what you don't see
+- [ ] **90-minute timer** — Non-negotiable
+
+## 📚 Deep Dives
+
+| Document | What You'll Learn |
+|----------|-------------------|
+| [Theory Basis](docs/theory-basis.md) | Why self-attack happens (dopamine crash, prefrontal shutdown, evolutionary wiring) |
+| [Warning Signals](docs/warning-signals.md) | Your personal dashboard—cognitive, physical, emotional indicators |
+| [Emergency Manual](docs/emergency-manual.md) | Crisis protocols: NSDR, diving reflex, cognitive interrupts |
+| [Flow Protocol](docs/flow-protocol.md) | The 90-minute rule, cool-down routines, shutdown rituals |
+| [Nutrition Pack](docs/nutrition-pack.md) | Emergency glucose, sustained fuel, Japan convenience store guide |
+| [Debugging Log](docs/debugging-log.md) | Template to track your episodes and find patterns |
+| [Resources](resources/README.md) | NSDR audio, books, podcasts, academic papers |
 
 ## 🤝 Contributing
 
-Every body is different. If you have your own "brain hacks," feel free to submit an **Issue** or **Pull Request**.
+Every body is different. If you have your own "brain hacks," submit an **Issue** or **Pull Request**.
 
-* Share your "emergency snacks."
-* Share your one-liner mantra for escaping self-attack.
-* Share your recovery playlist.
+* Share your emergency snacks
+* Share your interrupt mantras
+* Share your early warning signals
+* Share what works (and what doesn't)
+
+This is N=1 research becoming N=many.
 
 ## ⚠️ Disclaimer
 
 *This repository constitutes qualitative self-research ("N-of-1 trial") and does not constitute medical advice.*
 
-The content here is based on personal experience (N=1 experiment) and is not medical advice. If you are experiencing prolonged severe depression or anxiety, please seek professional help.
+The content here is based on personal experience. If you are experiencing prolonged severe depression or anxiety, please seek professional help.
+
+## 🔬 Why This Exists
+
+Traditional neuroscience research happens in controlled lab environments. Scientists rarely observe high-intelligence, high-intensity creative workers under **real high-pressure conditions** over extended periods.
+
+This repository provides qualitative data on:
+- Flow induction mechanisms
+- Specific thought patterns during burnout (the content of self-attacks)
+- Specific interventions and their effectiveness (e.g., glucose intake timing)
+
+Many great psychological discoveries (like Piaget's child development research) started from observing a few individuals closely. This summary may become the foundation for larger-scale quantitative research.
 
 ---
 
-**Created by [ruoqijin](https://github.com/ruoqijin)**
+**Created by [RuoqiJin](https://github.com/RuoqiJin)**
 
 *Built with coffee, code, and curiosity.*
+
+*This isn't a disease. It's high maintenance costs from high performance. Accept it and manage it.*
