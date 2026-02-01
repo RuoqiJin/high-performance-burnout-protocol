@@ -1,0 +1,15 @@
+# Personal notes
+日志.md
+
+# IDE/Editor
+.cursorindexingignore
+.specstory/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

@@ -38,6 +38,7 @@ Your body knows before your mind does.
 | **Cold hands/feet** | Blood over-concentrated in the brain, extremities under-supplied | 🟡 Warning |
 | **Tunnel vision** | Screen feels extremely glaring, or peripheral vision goes blurry | 🟠 Critical |
 | **Physical tension** | Jaw clenched, shoulders raised, shallow breathing | 🟠 Critical |
+| **6-Hour Coffee Headache** | Headache appearing ~6h after coffee = blood sugar crash + adenosine rebound. **Fix: eat immediately.** See [Caffeine Protocol](./nutrition-pack.md#part-25-caffeine-protocol--the-6-hour-rule). | 🟠 Critical |
 
 ### 3. Emotional Signals (The "Jerk" Factor)
 

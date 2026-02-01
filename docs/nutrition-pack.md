@@ -59,8 +59,34 @@ The brain is 60% fat. You need Omega-3 and MCT.
 | Item | Why |
 |------|-----|
 | 70%+ Dark chocolate | Theobromine + magnesium + flavonoids (increases cerebral blood flow) |
-| Black coffee (small) | Adenosine blocker, but don't overdo it |
+| Black coffee (small) | Adenosine blocker, but see **Caffeine Protocol** below |
 | Banana | Potassium + quick carbs |
+
+---
+
+## Part 2.5: Caffeine Protocol — The 6-Hour Rule
+
+> **Observation:** Headache appears ~6 hours after coffee. Eating immediately resolves it.
+
+This is a predictable physiological pattern for high-RPM brains. Coffee doesn't cause the headache directly—it creates conditions that do.
+
+### Why 6 Hours?
+
+| Mechanism | What Happens | Why Eating Helps |
+|-----------|--------------|------------------|
+| **Reactive Hypoglycemia** | Caffeine releases stored glycogen + suppresses appetite → 6h later (half-life), blood sugar crashes | Food directly replenishes glucose |
+| **Adenosine Rebound** | Caffeine blocks adenosine receptors + constricts blood vessels → when it wears off, vessels over-dilate, pressing on nerves | Eating redirects blood flow to digestion, relieving cerebral pressure |
+| **Dehydration** | Coffee is diuretic + you forgot to drink water during flow → electrolyte loss | Food (especially salty) restores sodium and locks in water |
+
+### The Fix
+
+| Rule | Implementation |
+|------|----------------|
+| **Never drink coffee on empty stomach** | Always pair with slow-release carbs (oatmeal, whole grain) or fats (nuts, cheese) |
+| **Set 5.5-hour alarm** | Eat BEFORE the headache (glucose tablets, onigiri, anything) |
+| **1 coffee = 1 water** | Mandatory hydration pairing |
+
+**Pattern recognition:** If you got a headache, ask yourself—did you drink coffee ~6 hours ago on an empty stomach?
 
 #### Avoid
 | Item | Japanese | Why |
