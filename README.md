@@ -15,6 +15,20 @@ Have you experienced any of the following?
 
 This repository isn't motivational fluff—it's an **engineering debugging log** and **maintenance manual**. It documents how to safely land this "expensive" machine before it overheats.
 
+## 📁 Repository Structure
+
+```
+/high-performance-burnout-protocol
+├── README.md                      # You are here
+├── /docs
+│   ├── emergency-manual.md        # Crisis intervention guide
+│   ├── nutrition-pack.md          # Fuel strategies (Tokyo Edition)
+│   ├── debugging-log.md           # Self-tracking template
+│   └── theory-basis.md            # The science behind the madness
+└── /resources
+    └── README.md                  # NSDR, books, tools
+```
+
 ## 🎯 Target Audience (System Specs)
 
 This guide is for **High-Intensity Neurotypes** with the following characteristics:
