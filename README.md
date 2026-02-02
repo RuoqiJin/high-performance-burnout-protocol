@@ -88,8 +88,9 @@ When self-attack thoughts appear:
 
 *(Tokyo Edition - adapt for your location)*
 
-- [ ] **Morinaga Large Ramune (90% glucose)** — Emergency brain reboot
-- [ ] **Weider in Jelly (Blue Energy)** — Fast liquid carbs
+- [ ] **Morinaga Large Ramune (90% glucose)** — Emergency brain reboot (sublingual)
+- [ ] **IN 30g Glucose ENERGY (gold label)** — Liquid brain fuel, Ramune flavor
+- [ ] **IN Jelly ENERGY Blue (regular)** — Body fuel, "10-second onigiri"
 - [ ] **Salmon onigiri + Mixed nuts** — Omega-3 sustained fuel
 - [ ] **70%+ Dark Chocolate** — Flow maintenance
 - [ ] **Water bottle in line of sight** — You won't drink what you don't see

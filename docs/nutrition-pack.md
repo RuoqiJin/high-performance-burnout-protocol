@@ -21,12 +21,48 @@ This is a staple for many Japanese programmers and Tokyo University students.
 - **Where to buy:** Get the enlarged bottle packaging at 7-11 or Lawson. Confirm the first ingredient on the label is "ぶどう糖."
 - **Effect:** Prefrontal cortex reboot within 10 minutes.
 
-### Liquid Carbs
+### Liquid Carbs — The IN Jelly System
 
-**Products:** Weider in Jelly (威德 in ゼリー) / Energy Jelly
+Japanese convenience stores carry two types of IN Jelly that serve **different purposes**. Understanding the difference is key.
 
-- **Why:** Liquid digests faster than solid. The blue "Energy" jelly in Japanese convenience stores, or 100% grape juice / orange juice.
-- **Note:** This is an "emergency kit." Drink it, effects in 15-20 minutes, can sustain about 45 minutes. **Must follow up with "sustained nutrition"**, otherwise blood sugar will crash even harder after the spike.
+#### IN 30g Glucose ENERGY (Gold/Orange Label)
+
+**Target:** The Brain
+
+| Attribute | Details |
+|-----------|---------|
+| **Core ingredient** | 30g pure glucose (ブドウ糖) |
+| **Flavor** | Ramune (ラムネ) — liquid version of Morinaga tablets |
+| **Tagline** | 「考えるためのエネルギー」(Energy for thinking) |
+| **Absorption** | Extremely fast. Glucose crosses blood-brain barrier directly—no conversion needed |
+| **Use case** | Exams, intense coding, brain-burning meetings |
+
+#### IN Jelly ENERGY Blue (Regular Version)
+
+**Target:** The Body
+
+| Attribute | Details |
+|-----------|---------|
+| **Core ingredient** | Maltodextrin (麦芽糊精) |
+| **Flavor** | Muscat grape (マスカット) |
+| **Tagline** | 「10秒でおにぎり1個分」(One onigiri in 10 seconds) |
+| **Calories** | 180kcal |
+| **Absorption** | Medium speed. Needs conversion first |
+| **Use case** | Skipped breakfast, pre-workout, general hunger |
+
+#### The Dual-Jelly Protocol ⚡
+
+**Field-tested intervention that stopped a crash before self-attack mode:**
+
+```
+Step 1: IN Glucose ENERGY (gold) → Brain fuel, immediate
+Step 2: IN Jelly Blue (regular) → Body fuel, sustained
+Step 3: Then go eat a real meal
+```
+
+**Why it works:** The glucose version reboots prefrontal function fast enough to prevent the emotional spiral. The regular version provides body calories so you don't crash again while finding food. Together, they buy you enough clarity to make good decisions (like actually eating).
+
+**Key insight:** This intervention caught the crash *before* entering self-attack mode. Timing matters—don't wait until you're already in the emotional pit.
 
 **Alternatives:**
 - Glucose tablets (any pharmacy)
@@ -129,11 +165,15 @@ This is a predictable physiological pattern for high-RPM brains. Coffee doesn't 
 
 ### Emergency (Brain Stalling)
 ```
-Ramune (2-3 tablets, sublingual) → 10 min effect
-    or
-Weider in Jelly (Blue) → 15-20 min effect
-    or
-100% Juice → 15-20 min effect
+Option A: Ramune tablets (2-3, sublingual) → 10 min effect
+
+Option B: Dual-Jelly Protocol (recommended)
+  1. IN Glucose ENERGY (gold) → Brain, immediate
+  2. IN Jelly Blue (regular) → Body, sustained
+  3. Then eat real food
+  → Stops crash before self-attack mode kicks in
+
+Option C: 100% Juice → 15-20 min effect
 ```
 
 ### Sustained (Preventing Crash)
