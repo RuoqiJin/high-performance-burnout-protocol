@@ -1,6 +1,6 @@
 # Nutrition Pack
 
-> Fuel strategies for high-RPM brains. v1.0 (Tokyo Edition)
+> Fuel strategies for high-RPM brains. v2.0 (Updated May 2026)
 
 For your "Ferrari engine" brain, if you wait until the car is smoking (complete burnout) to stop, it's too late. You need a professional **"pit stop refueling"** and **"dashboard monitoring"** strategy.
 
@@ -70,6 +70,56 @@ Step 3: Then go eat a real meal
 
 ---
 
+## Part 1.5: The DIY Protocol — Beyond Convenience Stores
+
+> **Update (May 2026):** After months of relying on Ramune and IN Jelly, a more effective and sustainable approach emerged: mixing raw ingredients at home.
+
+### The Homemade Stack
+
+Instead of buying pre-packaged convenience store products, source the raw components directly:
+
+- **Whey protein powder** — sustained amino acid delivery
+- **Maltodextrin (麦芽糊精)** — medium-speed body fuel (the same core ingredient as IN Jelly Blue)
+- **Pure glucose powder (葡萄糖粉)** — instant brain fuel (the same core ingredient as Ramune/IN Glucose ENERGY)
+
+### Two Modes
+
+#### Hunger Mode (Body Fuel)
+
+**When:** Hungry during work but don't want to break focus for a full meal.
+
+```
+4 scoops maltodextrin + protein powder → shake and drink
+```
+
+Maltodextrin provides quick-but-not-instant carbs (prevents blood sugar spike-crash), protein extends the energy curve. This replaced the "go find an onigiri" step entirely.
+
+#### Brain Reboot Mode (The Glucose Water)
+
+**When:** Half a day of work, brain feels heavy/slow, can't think clearly.
+
+```
+10g glucose powder + 500ml water → sip
+```
+
+**Field result:** Relief within **3 minutes**. Not subtle—dramatic cognitive clarity restoration. Migraines that previously required lying down? **Gone.** This single intervention eliminated the chronic headache problem entirely.
+
+**Current daily practice:** A glass of glucose water sits on the desk at all times during work sessions. Sip as needed. This is now the primary "always-on" fuel strategy, replacing the emergency-only Ramune approach.
+
+### Why This Works Better Than Convenience Store Options
+
+| Factor | Convenience Store | DIY Protocol |
+|--------|-------------------|--------------|
+| **Availability** | Requires a trip out | Always at home |
+| **Cost** | ¥150-200 per dose | ~¥10-20 per dose |
+| **Dosing** | Fixed (30g glucose per jelly) | Adjustable to current need |
+| **Delivery** | Bolus (all at once) | Continuous sipping throughout work |
+| **Protein** | None | Included |
+
+The continuous sipping approach is the key upgrade. Instead of waiting for a crash and then bolus-dosing glucose, you maintain a steady supply. The brain never hits empty.
+
+---
+
 ## Part 2: Sustained Endurance — How to Avoid the "Blood Sugar Rollercoaster"?
 
 If you only eat sugar, you'll fall into a vicious cycle of "excitement-crash-eat more sugar." You need **slow-release energy** to maintain hours of flow.
@@ -124,6 +174,31 @@ This is a predictable physiological pattern for high-RPM brains. Coffee doesn't 
 
 **Pattern recognition:** If you got a headache, ask yourself—did you drink coffee ~6 hours ago on an empty stomach?
 
+### The Glucose + Coffee Experiment (May 2026)
+
+> **Hypothesis:** If coffee accelerates brain processing speed (higher neural firing rate → higher glucose consumption), then supplementing glucose *simultaneously* with coffee should prevent the energy deficit that causes headaches and palpitations.
+
+**Experiment:** Add glucose powder directly into coffee.
+
+**Results:**
+
+| Symptom | Coffee Only | Coffee + Glucose |
+|---------|-------------|------------------|
+| 6-hour headache | Frequent | **Eliminated** |
+| Heart palpitations | Common | **Eliminated** |
+| Mood | Neutral → crash | **Sustained well-being / euphoria** |
+
+**The unexpected finding:** Coffee + glucose doesn't just prevent crashes—it produces a distinct sense of **well-being**. The caffeine provides processing speed; the glucose provides fuel to match. The brain gets to run fast *without* overdrawing its account.
+
+**Proposed mechanism:** Caffeine accelerates neural firing → neurons consume glucose faster → without supplementation, a glucose deficit builds over hours → headache, palpitations, crash. Adding glucose closes this gap in real time—demand and supply stay matched.
+
+**New protocol:** Never drink coffee without glucose. This supersedes the "6-Hour Rule" as a preventive measure rather than a reactive one. The 6-hour alarm is no longer needed when supply keeps up with demand from the start.
+
+```
+Old: Coffee → wait → headache → eat (reactive)
+New: Coffee + glucose → no deficit → no crash (preventive)
+```
+
 #### Avoid
 | Item | Japanese | Why |
 |------|----------|-----|
@@ -165,22 +240,20 @@ This is a predictable physiological pattern for high-RPM brains. Coffee doesn't 
 
 ### Emergency (Brain Stalling)
 ```
-Option A: Ramune tablets (2-3, sublingual) → 10 min effect
-
-Option B: Dual-Jelly Protocol (recommended)
+Option A (home): 10g glucose + 500ml water → 3 min effect ⭐ BEST
+Option B (Japan): Ramune tablets (2-3, sublingual) → 10 min effect
+Option C (Japan): Dual-Jelly Protocol
   1. IN Glucose ENERGY (gold) → Brain, immediate
   2. IN Jelly Blue (regular) → Body, sustained
-  3. Then eat real food
-  → Stops crash before self-attack mode kicks in
-
-Option C: 100% Juice → 15-20 min effect
+Option D: 100% Juice → 15-20 min effect
 ```
 
 ### Sustained (Preventing Crash)
 ```
-Before work: Salmon onigiri + nuts + water visible
+Always-on: Glucose water on desk, sip throughout work
+Hungry: 4 scoops maltodextrin + protein powder shake
+Coffee: ALWAYS add glucose (prevents headache + palpitations)
 During work: Dark chocolate + water every 45 min
-After flow: Onsen tamago + complex carbs
 ```
 
 ### Avoid
